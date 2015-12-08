@@ -1,0 +1,30 @@
+{
+  "name": "crudex",
+  "version": "0.0.1",
+  "description": "CRUD+ controllers for bex",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titarenko/crudex.git"
+  },
+  "keywords": [
+    "crud",
+    "controller",
+    "bex",
+    "express",
+    "web"
+  ],
+  "author": "Constantin Titarenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/titarenko/crudex/issues"
+  },
+  "homepage": "https://github.com/titarenko/crudex#readme",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "lodash": "^3.10.1"
+  }
+}
